@@ -26,4 +26,4 @@
 - **Безопасность:** блокировка входа на 30 сек, валидация пароля и email
 
 ## Ссылка на GitHub
-https://github.com/Maxwin512/food-delivery
+[https://github.com/Maxwin512/food-delivery](https://github.com/lazar133434/Slyzba-dostavki-edy/blob/main/README.md)
